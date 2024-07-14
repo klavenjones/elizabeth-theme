@@ -1,0 +1,11 @@
+{
+  "name": "elizabeth-theme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/polidario/Elizabeth_Clean.git",
+  "author": "Klaven Jones <klavensjones@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
